@@ -1,4 +1,4 @@
-## Hi there kind stranger! I'm Matteo👋
+## Hi there, kind stranger! I'm Matteo👋
 
 I'm a Computer Science master student with a love for Mathematics specializing in the following fields:
 - Algorithmics 🧩, satisfying my love for puzzles and problem-solving;
