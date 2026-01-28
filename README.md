@@ -9,7 +9,7 @@ My [master thesis](https://repository.tudelft.nl/record/uuid:9985f65b-37ef-42ca-
 
 Previously, I explored this intersection in my bachelor's project [PatternPal](https://github.com/PatternPal/PatternPal), a Visual Studio extension that detects design patterns.
 
-I am fascinated by the differences between programming languages, especially how their unique features help to solve different problems. For example, I love Rust’s emphasis on memory safety without a garbage collector, Haskell's strong type system and functional purity, and Python’s simplicity and readability.
+I am fascinated by the differences between programming languages, especially how their unique features help to solve different problems. For example, I love Rust’s emphasis on memory safety without a garbage collector, Haskell's functional purity and it's ability to guide the compiler, and Python’s simplicity and readability.
 
 Embedded programming is a hobby of mine, where low-level programming meets hardware. I satisfy this hobby by [developing a satellite with Da Vinci Satellite](https://github.com/davincisatellite), and with personal projects like this [smart clock](https://github.com/ViciousDoormat/Smart-clock).
 
